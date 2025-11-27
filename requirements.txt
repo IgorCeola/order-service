@@ -1,5 +1,6 @@
 fastapi
 uvicorn
+gunicorn
 pika
 pydantic
 pymongo
