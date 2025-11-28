@@ -6,3 +6,4 @@ pydantic
 pymongo
 pytest
 pytest-cov
+prometheus-fastapi-instrumentator
